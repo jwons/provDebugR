@@ -1,3 +1,6 @@
+# THE OFFICIAL PROVDEBUGR REPO HAS BEEN MOVED TO A PROVTOOLS REPO
+[The official provDebugR repo has been moved.](https://github.com/ProvTools/provDebugR)
+
 # provDebugR
 
 A debugging tool that leverages provenance to provide handy information about R scripts to assist in writing them.
