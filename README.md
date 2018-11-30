@@ -1,5 +1,5 @@
-# THE OFFICIAL PROVDEBUGR REPO HAS BEEN MOVED TO A PROVTOOLS REPO
-[The official provDebugR repo has been moved.](https://github.com/ProvTools/provDebugR)
+# THE OFFICIAL PROVDEBUGR REPO HAS BEEN MOVED TO A NEW REPO
+[The official provDebugR repo has been moved.](https://github.com/end-to-end-provenance/provDebugR)
 
 # provDebugR
 
